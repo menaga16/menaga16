@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Menaga</h1>
-- 👨‍💻 All of my projects are available at [https://github.com/menaga16](https://github.com/menaga16)
+- 👨‍💻 All of my projects are available at (https://github.com/menaga16)
 
 - 📫 How to reach me **menagaraman18@gmail.com**
 
