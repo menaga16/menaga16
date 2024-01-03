@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Menaga</h1>
-<
+<p> I'm currently a third-year student pursuing a bachelor's in Computer Sciences at Velammal College of Engineering and Technology, exploring various areas of study and engaging in exciting projects.</p>
 - 👨‍💻 All of my projects are available at  https://github.com/menaga16
 
 - 📫 How to reach me **menagaraman18@gmail.com**
