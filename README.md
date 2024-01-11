@@ -17,7 +17,6 @@
 <h2 align="left">GitHub Status:</h2>
 <div style="text-align: center;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=menaga16&show_icons=true&locale=en&layout=compact" alt="menaga16" /><br><br>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=menaga16&" alt="menaga16" />
 </div>
 
 
