@@ -7,6 +7,8 @@
 
 - 🌐 Check out my portfolio here [Menaga's portfolio ](https://menaga16.github.io/Menaga_Portfolio/)
 
+- 📝 Read my blog at [Menaga's Blog](https://www.blogger.com/profile/03468102594834726322)
+
 
 
 <h2 align="left">Connect with me:</h2>
