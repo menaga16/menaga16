@@ -5,7 +5,7 @@
     
 - 📫 How to reach me **menagaraman18@gmail.com**
 
-- 🌐 Check out my portfolio here [Menaga's portfolio ](https://menaga16.github.io/Menaga_Portfolio/)
+- 🌐 Check out my portfolio here [Menaga's portfolio ](https://menaga16.github.io/Portfolio/)
 
 
 
